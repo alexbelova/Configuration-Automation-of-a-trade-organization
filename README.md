@@ -1,4 +1,4 @@
-<img src="http://priemzakon.ru/wp-content/public_images2/cdf9330af99f48b4b0395bc8630935ef-300x225.jpg">
+<img src="https://st.depositphotos.com/2155259/2883/v/950/depositphotos_28830543-stock-illustration-shopping-bags-with-sale-in.jpg" width="250">
 <h1 align="center">Configuration "Automation of a trade organization"</h1>
 <h2 align="left">About of the configuration</h2>
 <p>It is necessary to automate the trade organization.</p>
