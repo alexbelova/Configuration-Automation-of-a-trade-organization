@@ -8,4 +8,4 @@
 <p>Payment of goods to the supplier is reflected in the document "Write-off of funds", receipt of goods by the document "Receipt invoice". It should be possible to pay money not only to the supplier, but also to an employee of the company.</p>
 <p>The shipment of goods to the buyer is reflected in the document "Bill of lading", and its payment is reflected in the document "Receipt of funds". For the document "Bill of lading" it is necessary to be able to form a printed form.</p>
 <p>When selling goods in a company, it may be necessary to keep currency records. This option is optional, that is, it is connected or disconnected, if necessary.</p>
-<p>To analyze the company's activities, you need to know how much sales were made by employees in the current month.</p>
+<p>To analyze the company's activities, you need to know how many sales were made by employees in the current month.</p>
