@@ -11,3 +11,4 @@
 <p>To analyze the company's activities, you need to know how many sales were made by employees in the current month.</p>
 <h2 align="left">The composition of the configuration</h2>
 <p>The configuration consists of constants, directories, enumerations.</p>
+<p><b>Constants:</b> name of the organization, individual taxpayer number (ITN), CEO.</p>
