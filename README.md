@@ -12,3 +12,4 @@
 <h2 align="left">The composition of the configuration</h2>
 <p>The configuration consists of constants, directories, enumerations.</p>
 <p><b>Constants:</b> name of the organization, individual taxpayer number (ITN), CEO.</p>
+<p><b>Reference books:</b> nomenclature, divisions, contractors, employees, contracts.</p>
