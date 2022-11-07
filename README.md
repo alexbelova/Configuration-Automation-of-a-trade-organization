@@ -10,6 +10,7 @@
 <p>When selling goods in a company, it may be necessary to keep currency records. This option is optional, that is, it is connected or disconnected, if necessary.</p>
 <p>To analyze the company's activities, you need to know how many sales were made by employees in the current month.</p>
 <h2 align="left">The composition of the configuration</h2>
-<p>The configuration consists of constants, directories, enumerations.</p>
+<p>The configuration consists of constants, catalogs, enumerations.</p>
 <p><b>Constants:</b> name of the organization, individual taxpayer number (ITN), CEO.</p>
-<p><b>Reference books:</b> nomenclature, divisions, contractors, employees, contracts.</p>
+<p><b>Catalogs:</b> nomenclature, divisions, contractors, employees, contracts.</p>
+<p><b>Enumerations:</b> types of employment, quality of goods, origin of goods.</p>
